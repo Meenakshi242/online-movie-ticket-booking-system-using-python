@@ -1,0 +1,29 @@
+BILL DETAILS:
+Date: 2024-06-27 14:14:25.308498
+Day: Thursday
+Month: June
+  
+Names: deena, deepika
+Movie name: rail
+Hall: A
+Time: 6.20pm
+Date: 27 june
+Charges: 588.0
+Seat number: 61 to 62
+
+****************************  
+
+BILL DETAILS:
+Date: 2024-06-27 18:13:00.018065
+Day: Thursday
+Month: June
+  
+Names: jessi, shalini, meenu
+Movie name: devil
+Hall: B
+Time: 6.00pm
+Date: 30 june
+Charges: 598.5
+Seat number: 11 to 13
+
+****************************
